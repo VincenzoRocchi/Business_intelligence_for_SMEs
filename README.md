@@ -1,6 +1,6 @@
 # Business Intelligence per PMI
 
-🇬🇧 This page is also available in English: [README.en.md]
+🇬🇧 This page is also available in English: [README.en.md](README.en.md)
 
 ---
 

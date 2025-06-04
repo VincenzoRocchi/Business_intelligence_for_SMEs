@@ -1,6 +1,6 @@
 # Business Intelligence for SMEs
 
-🇮🇹 Questa pagina è disponibile anche in Italiano: [README.md]
+🇮🇹 Questa pagina è disponibile anche in Italiano: [README.md](README.md)
 
 ---
 

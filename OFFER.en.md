@@ -1,6 +1,6 @@
 # Service Offering
 
-🇮🇹 Questa pagina è disponibile anche in Italiano: [OFFER.md]
+🇮🇹 Questa pagina è disponibile anche in Italiano: [OFFER.md](OFFER.md)
 
 ## What I can do for your business
 - Custom data analysis for SMEs and professionals
