@@ -4,6 +4,20 @@
 
 ---
 
+**Objectives**
+
+Our goal is to rebuild and analyze a company's internal accounting records (such as the general ledger) to extract meaningful business insights, including:
+
+- Reclassified balance sheets & income statements
+- Ratio analysis
+- Trend analysis (monthly, quarterly, yearly)
+- Machine learning: anomaly detection, clustering, revenue forecasting
+- Seasonality analysis, product/category-wise breakdowns
+- Risk & liquidity assessments
+- Data visualizations (heatmaps, waterfall charts, period comparisons, etc.)
+
+---
+
 **Table of Contents**
 - [What's inside](#whats-inside)
 - [Privacy and data control](#privacy-and-data-control)

@@ -4,6 +4,20 @@
 
 ---
 
+**Obiettivi**
+
+Il nostro obiettivo è ricostruire e analizzare i dati contabili interni di un'azienda (come il libro giornale) per estrarre insight di valore per il business, tra cui:
+
+- Bilanci e conti economici riclassificati
+- Analisi di bilancio e indici
+- Analisi dei trend (mensile, trimestrale, annuale)
+- Machine learning: rilevamento anomalie, clustering, previsione dei ricavi
+- Analisi di stagionalità e breakdown per categoria/prodotto
+- Valutazione di rischio e liquidità
+- Visualizzazioni avanzate (heatmap, waterfall chart, confronti tra periodi, ecc.)
+
+---
+
 **Indice**
 - [Cosa trovi qui](#cosa-trovi-qui)
 - [Privacy e controllo dei dati](#privacy-e-controllo-dei-dati)
