@@ -1,6 +1,6 @@
 # Business Intelligence per PMI
 
-🇮🇹 Questa pagina è disponibile anche in [English](README.en.md)
+🇬🇧 This page is also available in English: [README.en.md]
 
 ---
 

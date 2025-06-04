@@ -1,6 +1,6 @@
 # Offerta di Servizi
 
-🇮🇹 Questa pagina è disponibile anche in [English](OFFER.en.md)
+🇬🇧 This page is also available in English: [OFFER.en.md]
 
 ## Cosa posso fare per la tua azienda
 - Analisi dati su misura per PMI e professionisti
